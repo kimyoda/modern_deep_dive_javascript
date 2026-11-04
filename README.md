@@ -41,6 +41,14 @@
 | 24장 | [클로저](./section24_클로저/)                                                                 |
 | 25장 | [클래스](./section25_클래스/)                                                                 |
 | 26장 | [ES6 함수의 추가 기능](./section26_ES6_함수추가기능/)                                         |
+| 27장 | [배열](./section27_배열/)                                                                     |
+| 28장 | [Number](./section28_Number/)                                                                 |
+| 29장 | [Math](./section29_Math/)                                                                     |
+| 30장 | [Date](./section30_Date/)                                                                     |
+| 31장 | [RegExp](./section31_RegExp/)                                                                 |
+| 32장 | [String](./section32_String/)                                                                 |
+| 33장 | [Symbol](./section33_Symbol/)                                                                 |
+| 34장 | [Iterable](./section34_Iterable/)                                                             |
 
 ---
 

@@ -49,6 +49,8 @@
 | 32장 | [String](./section32_String/)                                                                 |
 | 33장 | [Symbol](./section33_Symbol/)                                                                 |
 | 34장 | [Iterable](./section34_Iterable/)                                                             |
+| 35장 | [Spread](./section35_Spread/)                                                                 |
+| 36장 | [Destructuring](./section36_Destructuring/)                                                   |
 
 ---
 

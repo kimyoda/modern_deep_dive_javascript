@@ -90,7 +90,8 @@ console.log(points, result);
 
 ```js
 function getScore() {
-  return 100;
+  return;
+  100;
 }
 
 console.log(getScore());

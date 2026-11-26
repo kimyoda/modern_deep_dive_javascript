@@ -40,32 +40,7 @@ console.log(score);
 <detail>
 <summary>정답과 해설 보기</summary>
 
-**정답 B**
-
-- **A**: `80`은 `var score = 80;`이 실행될 때 할당. 첫 출력은 그 전에 실행.
-- **B**: `var`로 선언한 `score`는 첫 줄이 실행되기 전에 이미 `undefined`로 초기화. 첫 줄에서도 읽을 수 있음.
-- **C**: `var` 선언이 본문 실행 전에 처리되는 것이 변수 호이스팅. 첫 출력은 초기값 `undefined`를 읽고, 두 번째 출력은 할당된 값 `80`을 읽는다.
-- **D**: 마지막 출력 전에 `score`에 이미 `80`이 할당돼 있음.
-
-</detail>
-
-### 2. 다음 코드 출력 순서는?
-
-```js
-console.log(score);
-var score = 80;
-console.log(score);
-```
-
-- A. `80` -> `80`
-- B. 첫 줄에 `ReferenceError` 발생
-- C. `undefined` -> `80`
-- D. `undefined` -> `undefined`
-
-<detail>
-<summary>정답과 해설 보기</summary>
-
-**정답 B**
+**정답 C**
 
 - **A**: `80`은 `var score = 80;`이 실행될 때 할당. 첫 출력은 그 전에 실행.
 - **B**: `var`로 선언한 `score`는 첫 줄이 실행되기 전에 이미 `undefined`로 초기화. 첫 줄에서도 읽을 수 있음.
